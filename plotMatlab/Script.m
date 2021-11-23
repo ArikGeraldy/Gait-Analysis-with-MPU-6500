@@ -8,17 +8,9 @@ addpath('Datasets');
 % -------------------------------------------------------------------------
 % Select dataset (comment in/out)
 
- filePath = 'Datasets/ericho5';
+ filePath = 'Data/'; %put your path data obtained in here
  startTime = 0;
  stopTime = 16.5;
-
-%  filePath = 'Datasets/stairsAndCorridor';
-%  startTime = 5;
-%  stopTime = 53;
-
-% filePath = 'Datasets/spiralStairs';
-% startTime = 4;
-% stopTime = 47;
 
 % -------------------------------------------------------------------------
 % Import data
